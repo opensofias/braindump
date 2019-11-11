@@ -15,6 +15,6 @@ unlike a consumer coop. it does not aim to run shops otherwise be a business ent
 * team up with worker's unions
 * supporting stakeholder ownership
 
-## economics for anarchists
+# economics for anarchists
 
 critical textbook for economics, covering mainstream economic theory as well as theories popular among anarchists, libertarians and socialists. probably featuring furry characters.
