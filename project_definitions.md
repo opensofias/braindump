@@ -17,4 +17,4 @@ unlike a consumer coop. it does not aim to run shops otherwise be a business ent
 
 ## economics for anarchists
 
-critical textbook for economics, covering mainstream economic theory as well as theories popular among anarchists, libertarians and socialists. 
+critical textbook for economics, covering mainstream economic theory as well as theories popular among anarchists, libertarians and socialists. probably featuring furry characters.
