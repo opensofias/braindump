@@ -17,7 +17,10 @@ unlike a consumer coop. it does not aim to run shops otherwise be a business ent
 
 # economics for anarchists
 
-critical textbook for economics, covering mainstream economic theory as well as theories popular among anarchists, libertarians and socialists. probably featuring furry characters.
+critical textbook for economics, covering mainstream economic theory as well as theories popular among anarchists, libertarians and socialists.
+
+* featuring furry characters to represent different schools of thougt. to "humanize" different viewpoits. ;)
+* it would be nice to have a format that can be transfered into a more interactive medium. like little defintion boxes that pop out when clickin on an economic term, and putting dialogues in a bit of an rpg- or visual novel like form
 
 # lifetimeCurrency
 
